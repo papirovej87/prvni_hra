@@ -1,0 +1,2 @@
+# prvni_hra
+Adventurka
